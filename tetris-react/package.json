@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://vxnquish.github.io/tetris-react",
+  "homepage": "https://vxnquish.github.io/Tetris",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
