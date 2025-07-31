@@ -44,7 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```bash
 # Clone the repo
-git clone https://github.com/vxnquish/tetris-react.git
+git clone https://github.com/vxnquish/Tetris.git
 cd tetris-react
 
 # Install dependencies
